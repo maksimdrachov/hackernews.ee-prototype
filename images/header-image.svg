@@ -2,20 +2,20 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="210mm"
    height="297mm"
    viewBox="0 0 210 297"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
-   sodipodi:docname="header-image.svg">
+   inkscape:version="1.1.2 (b8e25be8, 2022-02-05)"
+   sodipodi:docname="header-image.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -25,17 +25,18 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.0672419"
-     inkscape:cx="225.84886"
-     inkscape:cy="561.25984"
+     inkscape:zoom="0.66876168"
+     inkscape:cx="337.19037"
+     inkscape:cy="386.53531"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="2488"
-     inkscape:window-height="1376"
-     inkscape:window-x="72"
-     inkscape:window-y="27"
-     inkscape:window-maximized="1" />
+     inkscape:window-width="1376"
+     inkscape:window-height="855"
+     inkscape:window-x="64"
+     inkscape:window-y="23"
+     inkscape:window-maximized="1"
+     inkscape:pagecheckerboard="0" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -44,7 +45,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -54,23 +55,25 @@
      id="layer1">
     <rect
        id="rect3713"
-       width="158.75"
-       height="52.916668"
-       x="24.29549"
-       y="62.362961"
-       style="stroke-width:0.26796862;fill:#000000;fill-opacity:0"
+       width="185.20833"
+       height="26.458334"
+       x="21.463833"
+       y="77.057465"
+       style="fill:#000000;fill-opacity:1;stroke-width:0.204664"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="/Users/maksimdrachov/hackernews.ee/images/header-image.png" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.57777786px;line-height:1.25;font-family:'3270Medium Nerd Font Mono';-inkscape-font-specification:'3270Medium Nerd Font Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="25.653074"
-       y="96.779961"
-       id="text3717"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.4369px;line-height:1.25;font-family:'3270Medium Nerd Font Mono';-inkscape-font-specification:'3270Medium Nerd Font Mono';letter-spacing:0px;word-spacing:0px;fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:0.274651"
+       x="26.471409"
+       y="94.763725"
+       id="text3717"
+       transform="scale(0.96884803,1.0321536)"><tspan
          sodipodi:role="line"
          id="tspan3715"
-         x="25.653074"
-         y="96.779961"
-         style="font-size:22.57777786px;fill:#00ff00;stroke-width:0.26458332">Hackernews.ee</tspan></text>
+         x="26.471409"
+         y="94.763725"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.4369px;font-family:Courier;-inkscape-font-specification:Courier;fill:#00ff00;fill-opacity:1;stroke-width:0.274651">hackernews.ee</tspan></text>
   </g>
 </svg>
