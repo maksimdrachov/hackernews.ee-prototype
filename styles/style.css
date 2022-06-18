@@ -1,7 +1,7 @@
 html {
     font-size: 15px; /* px means "pixels": the base font size is now 10 pixels high  */
-    font-family: "Roboto Mono"; /* this should be the rest of the output you got from Google fonts */
-    background-color: #81c5fc;
+    font-family: "Courier New"; /* this should be the rest of the output you got from Google fonts */
+    background-color: #2b2a33;
   }
 
 h1 {
@@ -17,24 +17,52 @@ p, li {
 
 img {
   width: 600px;
-  margin: 0 auto;
-  background-color: #FFFFFF;
+  margin: 0% 0% 0% 25%;
+  margin-top: 5px;
 }
 
 nav {
   width: 600px;
-  margin: 0 auto;
-  background-color: #81c5fc;
-  text-align: center;
-  padding: 10px 20px 10px 20px;
+  margin: 0% 0% 0% 25%;
+  color: #FFFFFF;
+  text-align: left;
+  padding: 5px 0px 15px 0px;
+}
+
+.navbutton {
+  color: #FFFFFF;
+  text-decoration: none;
 }
 
 article {
   width: 750px;
-  margin: 0 auto;
-  background-color: #FFFFFF;
-  padding: 0 20px 0px 20px;
-  border: 5px solid black;
+  margin: 0% 0% 0% 25%;
+}
+
+.title {
+  color: #FFFFFF;
+  font-size: 18px;
+  text-decoration: none;
+}
+
+.link {
+  color: #646464;
+  font-size: 16px;
+  text-decoration: none;
+}
+
+.subscript {
+  color: #646464;
+  font-size: 16px;
+  text-decoration: none;
+  margin-top: 0px;
+}
+
+.upvote {
+  color: #FFFFFF;
+  font-size: 18px;
+  text-decoration: none;
+  margin-top: 0px;
 }
 
 footer {
@@ -44,11 +72,6 @@ footer {
   text-align: center;
   padding: 0 20px 0px 20px;
 }
-
-img {
-    display: block;
-    margin: 0 auto;
-  }
   
 
   
