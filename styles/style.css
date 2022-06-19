@@ -34,6 +34,12 @@ nav {
   text-decoration: none;
 }
 
+.submit {
+  color: #FFFFFF;
+  text-decoration: none;
+  float: right;
+}
+
 article {
   width: 750px;
   margin: 0% 0% 0% 25%;
